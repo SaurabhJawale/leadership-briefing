@@ -51,12 +51,8 @@ Excel Data
 ```text
 src/
 ├── main.py
-├── excel_reader.py
-├── data_validator.py
-├── business_rules.py
-├── llm_analyzer.py
-├── report_generator.py
-└── email_sender.py
+├── config.py
+
 ```
 
 ## Getting Started
